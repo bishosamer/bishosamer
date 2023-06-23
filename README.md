@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Beshoy</h1>
 <h3 align="center">Senior flutter developer</h3>
 
-- 👨‍💻 Sample projects are [right here on my github](right here on my github)
+- 👨‍💻 Sample projects are right here on my github
 
 - 💬 Ask me about **Anything**
 
